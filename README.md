@@ -102,7 +102,7 @@ void loop()
 ~~~
 OUTPUT:
 
-![output](robo 5.1.png)
+![output](5'1.png)
 
 Program:
 ~~~
@@ -137,7 +137,7 @@ void loop()
 ~~~
 Output:
 
-![output](robo 5.2.png)
+![output](5'2.png)
 
 
 
