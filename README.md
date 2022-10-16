@@ -100,6 +100,10 @@ void loop()
  }
 }
 ~~~
+OUTPUT:
+![output](robo 5.1.png)
+Program:
+~~~
 
 
 
