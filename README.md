@@ -101,7 +101,9 @@ void loop()
 }
 ~~~
 OUTPUT:
+
 ![output](robo 5.1.png)
+
 Program:
 ~~~
 // C++ code
@@ -134,6 +136,7 @@ void loop()
 }
 ~~~
 Output:
+
 ![output](robo 5.2.png)
 
 
